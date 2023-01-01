@@ -1,0 +1,1 @@
+# CursoEmVideo_Analisador-de-Numeros
